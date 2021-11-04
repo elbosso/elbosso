@@ -21,8 +21,8 @@ All my other Repos are over at GitLab:
 * [Tiny85MacroKeyboard](https://gitlab.com/elbosso/tiny85macrokeyboard)
 * [DigiSparkCustomKeyboard](https://gitlab.com/elbosso/digisparkcustomkeyboard)
 * [ultimaterisc](https://gitlab.com/elbosso/ultimaterisc)
-* [dynamicSVGDocumentation](https://gitlab.com/elbosso/dynamicsvgdocumentation)
-* [dWbDocumentation](https://gitlab.com/elbosso/dwbdocumentation)
+* [![](https://gitlab.com/uploads/-/system/project/avatar/30917858/aviator_logo.png?width=64)](https://elbosso.github.io/aviator.html)[dynamicSVGDocumentation](https://gitlab.com/elbosso/dynamicsvgdocumentation)
+* [![](https://gitlab.com/uploads/-/system/project/avatar/30917312/dWb_logo.png?width=64)](https://elbosso.github.io/dWb.html)[dWbDocumentation](https://gitlab.com/elbosso/dwbdocumentation)
 * [cmsDocumentation](https://gitlab.com/elbosso/cmsdocumentation)
 * [ebcmsexample](https://gitlab.com/elbosso/ebcmsexample)
 
