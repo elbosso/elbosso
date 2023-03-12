@@ -15,7 +15,7 @@ I regularly write articles on [https://elbosso.github.io/index.html](https://elb
 
 Ask me about **PKI, Public Key Cryptography, Java, Physical Computing, Linux, Jupyter, KiCad, TeX, DocBook,...**
 
-How to find me: <a href="https://gitlab.com/elbosso" target="_blank"><img src="https://elbosso.github.io/images/icons/gitlab-icon-rgb.png"  width="32" height="32" alt="Gitlab Repositories" title="Gitlab Repositories"></a><a href="https://mastodon.social/@elbosso" target="_blank"><img src="https://elbosso.github.io/images/icons/iconfinder_207_Mastodon_4518932.png" alt="Mastodon" title="Mastodon"></a><a href="xmpp:elbosso@jabber.de"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/XMPP_logo.svg/200px-XMPP_logo.svg.png" alt="xmpp" title="elbosso@jabber.de" width="32" height="32"></a>
+How to find me: <a href="https://gitlab.com/elbosso" target="_blank"><img src="https://elbosso.github.io/images/icons/gitlab-icon-rgb.png"  width="32" height="32" alt="Gitlab Repositories" title="Gitlab Repositories"></a><a href="https://mastodon.social/@elbosso" target="_blank"><img src="https://elbosso.github.io/images/icons/iconfinder_207_Mastodon_4518932.png" alt="Mastodon" title="Mastodon"></a><a href="xmpp:elbosso@jabber.de"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/XMPP_logo.svg/200px-XMPP_logo.svg.png" alt="xmpp" title="elbosso@jabber.de" width="32" height="32"></a><a href="https://www.iana.org/assignments/enterprise-numbers/enterprise-numbers">PEN: 1.3.6.1.4.1.59452</a> 
 
 All my other Repos are over at GitLab:
 
