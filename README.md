@@ -30,5 +30,4 @@ All my other Repos are over at GitLab:
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elbosso&show_icons=true&locale=en" alt="elbosso" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=elbosso)](https://git.io/streak-stats)
-
+<p align="center">&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elbosso" alt="GitHub Streak" /></a></p>
